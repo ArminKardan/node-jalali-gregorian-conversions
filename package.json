@@ -1,0 +1,26 @@
+{
+  "name": "ak-jalali-gregorian",
+  "version": "1.0.0",
+  "description": "Jalali to Gregorian DT conversion and vice versa, designed by Armin Kardan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/ArminKardan/node-jalali-gregorian-conversions.git"
+  },
+  "keywords": [
+    "jalali",
+    "gregorian",
+    "miladi",
+    "shamsi",
+    "convert",
+    "conversion",
+    "armin",
+    "kardan",
+    "arminkardan"
+  ],
+  "author": "Armin Kardan",
+  "license": "MIT"
+}
